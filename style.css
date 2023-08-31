@@ -3,13 +3,13 @@ body {
 }
 
 h1 {
-    border: 10px dotted #1f18ef;
+    border: 5px solid #1f18ef;
     text-align: center;
 }
 
 #banner {
     width: 100%;
-    height: 50%;
+    height: 20%;
 }
 p {
     text-align: center;
