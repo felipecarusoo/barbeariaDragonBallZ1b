@@ -1,5 +1,5 @@
 body {
-    background: #cccccc;
+    background: white;
 }
 
 .titulo-principal {
@@ -12,8 +12,13 @@ body {
     height: 20%;
 }
 
+.sobre-barbearia {
+    background-color: azure;
+}
+
 .titulo-centralizado {
     border: 5px solid #1f18ef;
+    text-align: center;
 }
 p {
     text-align: center;
@@ -21,4 +26,8 @@ p {
 
 em strong {
     color: red;
+}
+
+.lista {
+    text-align: center;
 }
